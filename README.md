@@ -1,4 +1,8 @@
-### Hi there 👋
+# Sobre mim
+- Olá, eu me chamo Eryque Maciel Lopes;
+- Atualmente estudo em CECMPS;
+- Atualmente estou aprendendo programação no SCRATCH e JAVASCRIPT;
+- Instagram: @eryque_lopes
 
 <!--
 **lopinh0/lopinh0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
